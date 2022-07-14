@@ -90,6 +90,4 @@ public class Sale {
 		return Objects.equals(id, other.id);
 	}
 	
-	
-	
 }
